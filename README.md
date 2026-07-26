@@ -2,9 +2,9 @@
 
 # Eng. Bakr
 
-### End-to-End Software Product Engineer
+### End-to-End Software Engineer
 
-Full-Stack · AI Automation · Systems Architecture · Production Support
+Product Discovery · System Design · Full-Stack Development · AI Automation · DevOps · Production Support
 
 </div>
 
