@@ -12,26 +12,12 @@ integration.
 ## Professional profile
 
 I design and build complete software solutions across frontend, backend, data,
-integrations, deployment, and operations. My experience covers business-critical
-platforms, multilingual interfaces, automation workflows, AI-assisted systems,
-and production infrastructure.
+integrations, deployment, and operations. This profile focuses exclusively on
+the technologies, tools, and engineering practices I use.
 
-All original project repositories, client identities, source code, and production
-data remain private. This profile presents a capability-based portfolio without
-exposing confidential work.
-
-## Private project portfolio
-
-My private work includes:
-
-- Enterprise administration and operations platforms
-- Healthcare, clinic, and learning management systems
-- CRM, lead intelligence, finance, inventory, and reporting solutions
-- Marketplace platforms, responsive PWAs, and Arabic/RTL applications
-- AI assistants, agent tools, automation bridges, and content workflows
-- Telegram, WhatsApp, API, and third-party system integrations
-- Secure desktop utilities and cross-platform applications
-- Dockerized deployments, migration workflows, and production operations
+All project names, business domains, client identities, repositories, source
+code, screenshots, and production data remain private. Only verified technical
+capabilities are presented here.
 
 ## Technical capabilities
 
