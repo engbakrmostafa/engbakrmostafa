@@ -1,0 +1,6 @@
+---
+description: Maintain the public repository project log with evidence-grounded events.
+alwaysApply: true
+---
+
+Keep `PROJECT_LOG.md` canonical and public-safe. Record observation time, component/change, reason, result/verification, source ref, next action, and unresolved/removed/deferred items. Do not include private links, local paths, credentials, or inferred ownership/runtime/deployment facts.
